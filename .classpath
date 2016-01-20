@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="atm/DebuggingAspect.aj|atm/Check_NoTransc.aj|atm/physical/CheckIdle.aj|atm/physical/DispenseCash.aj|atm/physical/Eject_Timecheck.aj|atm/physical/MinimumCashInATM.aj|atm/transaction/CheckInvalidPinExtension.aj|atm/transaction/CheckTranscEvent.aj|atm/transaction/GenerousBank.aj|atm/transaction/IncorrectAmountDeposited.aj|atm/transaction/InvalidPinEntered.aj|banking/MonitorTransferTransaction.aj" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.ajdt.core.ASPECTJRT_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
